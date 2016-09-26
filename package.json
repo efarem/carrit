@@ -1,0 +1,15 @@
+{
+  "name": "carrit",
+  "version": "1.0.0",
+  "description": "Send a carrit message to slack",
+  "main": "index.js",
+  "scripts": {
+    "send": "node index.js"
+  },
+  "keywords": [],
+  "author": "Frank Martin <frank.martin.86@hotmail.com> (https://efarem.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "1.6.3"
+  }
+}
